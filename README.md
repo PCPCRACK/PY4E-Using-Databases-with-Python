@@ -97,3 +97,4 @@ for entry in all:
 
     conn.commit()
 ```
+[![Captura.png](https://i.postimg.cc/xT81ZW63/Captura.png)](https://postimg.cc/LndSY0KJ)
